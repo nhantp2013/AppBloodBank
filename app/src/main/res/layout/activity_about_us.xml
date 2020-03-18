@@ -22,7 +22,7 @@
         android:id="@+id/txtv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="This is a demo projects on blood donation and collecting. Our Team Members are: Ly Minh Nhan and Nguyen Cong Duc"
+        android:text="This is a demo projects on blood donation and collecting. Our Team Members are: Ly Minh Nhan and Nguyen Cong DucThis is a demo projects on blood donation and collecting. Our Team Members are: Ly Minh Nhan and Nguyen Cong DucThis is a demo projects on blood donation and collecting. Our Team Members are: Ly Minh Nhan and Nguyen Cong DucThis is a demo projects on blood donation and collecting. Our Team Members are: Ly Minh Nhan and Nguyen Cong DucThis is a demo projects on blood donation and collecting. Our Team Members are: Ly Minh Nhan and Nguyen Cong Duc"
         android:linksClickable="true" />
 
 </LinearLayout>
